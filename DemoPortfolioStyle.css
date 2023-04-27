@@ -1,0 +1,168 @@
+
+.head {
+  display:flex;
+  align-items:flex;
+  justify-content:flex-start;
+}
+
+h1 {
+  color:pink;
+  font-family:cursive;
+  font-style:italic;
+}
+
+ 
+      
+      
+      *{ box-sizing: border-box;
+      padding:0;
+      margin:0;   }
+
+      .header {
+        box-sizing: border-box;
+        font-family:'Times New Roman', Times, serif;
+        font-size:20px;
+        padding: 40px;
+        background:#059c8e;
+        position:sticky;
+      
+      }
+      .header {
+        text-align: center;
+        text-shadow:#1fbdae;
+      }
+      .header div {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .header div ul {
+        list-style-type:none;
+      }
+      .header div ul li {
+        display:inline-flexbox;
+
+      }
+
+      a {
+        color:pink;
+        text-decoration:none;
+      }
+     ul :hover{color:palevioletred}
+      
+      .body {
+        background-color: #bfecf7;
+      }
+      .About-Me {
+     
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        height: 50vh;
+        width: 97%;
+        text-align: center;
+      }
+      
+      .About-Me{
+        background:#fff;
+        font-family: Montserrat, sans-serif;;
+        font-size: 24px;
+        line-height: 20px;
+        font-weight: bold;
+        color: palevioletred;
+        padding: 10px;
+        margin:20px;
+        box-shadow:
+            inset #009688 0 0 0 5px, 
+          inset #059c8e 0 0 0 1px, 
+          inset #0cab9c 0 0 0 10px, 
+          inset #1fbdae 0 0 0 11px, 
+          inset #8ce9ff 0 0 0 16px, 
+          inset #48e4d6 0 0 0 17px, 
+          inset #e5f9f7 0 0 0 21px, 
+          inset #bfecf7 0 0 0 22px;
+        text-shadow: 3px 3px 1px #bfecf7;
+      } 
+
+      h2 {
+        text-align:center;
+        padding-top: 20px;
+        color:#059c8e;
+      }
+      .My-Work {
+     
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50vh;
+        width: 97%;}
+    
+      .My-Work{
+        background: #fff;
+        font-family: Montserrat, sans-serif;
+        font-size: 24px;
+        line-height: 20px;
+        font-weight: bold;
+        color:palevioletred;
+        padding: 10px;
+        margin:20px;
+        box-shadow:
+            inset #009688 0 0 0 5px, 
+          inset #059c8e 0 0 0 1px, 
+          inset #0cab9c 0 0 0 10px, 
+          inset #1fbdae 0 0 0 11px, 
+          inset #8ce9ff 0 0 0 16px, 
+          inset #48e4d6 0 0 0 17px, 
+          inset #e5f9f7 0 0 0 21px, 
+          inset #bfecf7 0 0 0 22px;
+        text-shadow: 3px 3px 1px #bfecf7;
+      } 
+      .My-Work {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50vh;
+        width: 97%;
+        background:#fff;
+        text-align: justify;
+      
+      }
+      .My-Work video {
+        display:block;
+        margin: 50px auto;
+        max-width:50%;
+        height:50%;
+    
+
+      }
+
+      .Get-in-Touch {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height:50vh;
+        width:97%;
+      }
+      .Get-in-Touch {
+        background: #fff;
+        font-family: Montserrat, sans-serif;;
+        font-size: 24px;
+        line-height: 20px;
+        font-weight: bold;
+        color:palevioletred;
+        padding: 10px;
+        margin:20px;
+        box-shadow:
+            inset #009688 0 0 0 5px, 
+          inset #059c8e 0 0 0 1px, 
+          inset #0cab9c 0 0 0 10px, 
+          inset #1fbdae 0 0 0 11px, 
+          inset #8ce9ff 0 0 0 16px, 
+          inset #48e4d6 0 0 0 17px, 
+          inset #e5f9f7 0 0 0 21px, 
+          inset #bfecf7 0 0 0 22px;
+        text-shadow: 3px 3px 1px #bfecf7;
+      } 
+
+    
+    
+  
